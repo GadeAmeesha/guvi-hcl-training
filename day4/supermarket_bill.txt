@@ -1,0 +1,13 @@
+
+===== XYZ GRO BILL =====
+Date: 24-08-2025 13:32:20
+Customer: ameesha
+Phone: 987654321
+-----------------------------
+Items Purchased:
+10 Rs Chocolate x 3 = Rs.30
+-----------------------------
+Grand Total = Rs.30
+===== THANK YOU! VISIT AGAIN =====
+
+
